@@ -16,3 +16,5 @@ I used Jupyter Notebook (anaconda3) and Python to create this project.
 For saving and loading models I used joblib.
 
 ![decision tree](https://user-images.githubusercontent.com/72088440/131219220-70f9e4b7-8d77-49df-9ad2-9f803b3565fa.PNG)
+
+CREDITS TO MOSH for the tutorial: http://codewithmosh.com 
